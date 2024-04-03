@@ -1,0 +1,14 @@
+No StudentID Name                          Telephone Grade     
+1  20221234  Tran_Phuc_Son                 912345678 10.00     
+2  20225678  Nguyen_Trinh_Hoang_Nguyen     912987654 9.00      
+3  20222345  Nguyen_Duc_Dai_Duong          943215678 8.70      
+4  20223456  Le_Quoc_Dang                  912536246 7.60      
+5  20227592  Trinh_Minh_Dat                917295721 6.50      
+6  20227398  Dang_Huy_Hoang                926281749 5.40      
+7  20227592  Nguyen_Le_Minh                917294028 4.30      
+8  20227593  Pham_Le_Thanh                 942759271 3.20      
+9  20222948  Tran_Tien_Dung                917628492 2.10      
+10 20228271  Than_Cat_Ngoc_Lan             926481921 1.00      
+11 20228591  Nguyen_Hong_Anh               936581762 0.90      
+12 20221547  Mai_Nam_Hai                   917461921 9.80      
+13 20227581  Dit_Me_Cuoc_Doi               926185491 7.50      
